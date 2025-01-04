@@ -1,0 +1,7 @@
+Werkzeug>=2.2.0,<3.0.0
+Flask==2.2.5
+flask-cors==3.0.10
+boto3==1.28.3
+pymongo==4.4.1
+python-dotenv==1.0.0
+bson==0.5.11,<0.5.11
