@@ -4,4 +4,6 @@ flask-cors==3.0.10
 boto3==1.28.3
 pymongo==4.4.1
 python-dotenv==1.0.0
-bson==0.5.11,<0.5.11
+tensorflow
+Pillow>=9.0.0  # Updated for security patches
+numpy>=1.21.0  # More compatible with recent TensorFlow versions
